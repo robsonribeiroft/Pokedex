@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ComposePokedex"
 include(":app")
- 
+include(":data")
